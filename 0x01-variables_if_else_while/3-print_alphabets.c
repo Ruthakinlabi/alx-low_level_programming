@@ -1,7 +1,7 @@
 #include <stdio.h>
 c
 /**
-* main - Entry poimt
+* main - Entry point
 *
 * Return: Always 0
 */
